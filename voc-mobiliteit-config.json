@@ -1,0 +1,48 @@
+{
+  "naam": "Vocabularium Mobiliteit",
+  "verantwoordelijke_organisatie": [
+    "Agentschap Informatie Vlaanderen",
+    "Agentschap Binnenlands Bestuur"
+  ],
+  "identificator_organisatie": [
+    "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+    "http://data.vlaanderen.be/id/organisatie/OVO001835"
+  ],
+  "publicatiedatum": "TBD",
+  "type_toepassing": "TBD",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "description_file" : "voc-mobiliteit.md",
+  "specificatiedocument": [
+    {
+      "naam": "Vocabularium Mobiliteit",
+      "waarde": "https://data.vlaanderen.be/ns/mobiliteit"
+    }
+  ],
+  "documentatie": [],
+  "charter": [
+    {
+      "naam": "Werkgroep Charter OSLO Mobiliteit",
+      "waarde": "Werkgroep charter OSLO Mobiliteit.pdf"
+    }
+  ],
+  "verslagen": [],
+  "presentaties": [
+    {
+      "naam" : "Presentatie Procesworkshop 1 Mobiliteit",
+      "waarde" : "https://drive.google.com/file/d/19OiSynuYhsRjXL9j8JnNaINxg3yeZP56/view?usp=sharing"
+    },
+    {
+      "naam" : "Presentatie Procesworkshop 2 Mobiliteit",
+      "waarde" : "https://drive.google.com/file/d/1RkPKiIaxlNrQ7Enn0_KPCBBjCzlLVTWh/view?usp=sharing"
+    },
+    {
+      "naam" : "Presentatie Procesworkshop 3 Mobiliteit",
+      "waarde" : "https://drive.google.com/file/d/1qlRTR6w_AO3s5yiYbSfCt5TkxAdF2zUX/view?usp=sharing"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor lokale besluiten inzake mobiliteit",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "29 Mei 2018",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
