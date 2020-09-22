@@ -1,5 +1,6 @@
 {
   "naam": "Vocabularium Mobiliteit",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/mobiliteit/ontwerpdocument/2018-09-30/all-mobiliteit.jsonld",
   "verantwoordelijke_organisatie": [
     "Agentschap Informatie Vlaanderen",
     "Agentschap Binnenlands Bestuur"
@@ -11,7 +12,7 @@
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-mobiliteit.md",
+  "beschrijving" : "voc-mobiliteit.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Mobiliteit",

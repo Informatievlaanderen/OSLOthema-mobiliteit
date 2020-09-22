@@ -1,5 +1,6 @@
 {
   "naam": "Applicatieprofiel Besluit Mobiliteit",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/besluit-mobiliteit/ontwerpdocument/2018-09-30/all-besluit-mobiliteit.jsonld",
   "verantwoordelijke_organisatie": [
     "Agentschap Informatie Vlaanderen",
     "Agentschap Binnenlands Bestuur"
@@ -11,7 +12,7 @@
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-besluit-mobiliteit.md",
+  "beschrijving" : "ap-besluit-mobiliteit.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Besluit Mobiliteit",
