@@ -6,7 +6,7 @@
     "Agentschap Binnenlands Bestuur"
   ],
   "identificator_organisatie": [
-    "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+    "http://data.vlaanderen.be/id/organisatie/OVO002949",
     "http://data.vlaanderen.be/id/organisatie/OVO001835"
   ],
   "publicatiedatum": "TBD",
@@ -41,7 +41,7 @@
       "waarde" : "https://drive.google.com/file/d/1qlRTR6w_AO3s5yiYbSfCt5TkxAdF2zUX/view?usp=sharing"
     }
   ],
-  "functioneel_toepassingsgebied": "Semantische standaard voor lokale besluiten inzake mobiliteit",
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot verkeersborden, innames openbaar domein (cfr. GIPOD) en lokale besluiten (cfr. wegreglementen, inname- en signalisatievergunning) die een impact hebben op mobiliteit",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "29 Mei 2018",
   "erkenning_werkgroep_datastandaarden": "TBD",
