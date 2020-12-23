@@ -1,6 +1,6 @@
 {
   "naam": "Vocabularium Mobiliteit",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/mobiliteit/ontwerpdocument/2018-09-30/all-mobiliteit.jsonld",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/mobiliteit.jsonld",
   "verantwoordelijke_organisatie": [
     "Agentschap Informatie Vlaanderen",
     "Agentschap Binnenlands Bestuur"

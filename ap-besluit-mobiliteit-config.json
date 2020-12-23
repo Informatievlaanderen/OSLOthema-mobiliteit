@@ -1,6 +1,6 @@
 {
   "naam": "Applicatieprofiel Besluit Mobiliteit",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/besluit-mobiliteit/ontwerpdocument/2018-09-30/all-besluit-mobiliteit.jsonld",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/besluit-mobiliteit.jsonld",
   "verantwoordelijke_organisatie": [
     "Agentschap Informatie Vlaanderen",
     "Agentschap Binnenlands Bestuur"
