@@ -2,11 +2,11 @@
   "naam": "Applicatieprofiel Besluit Mobiliteit",
   "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/besluit-mobiliteit.jsonld",
   "verantwoordelijke_organisatie": [
-    "Agentschap Informatie Vlaanderen",
+    "Agentschap Digitaal Vlaanderen",
     "Agentschap Binnenlands Bestuur"
   ],
   "identificator_organisatie": [
-    "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+    "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "http://data.vlaanderen.be/id/organisatie/OVO001835"
   ],
   "publicatiedatum": "TBD",
